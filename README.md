@@ -7,4 +7,5 @@ collection of textures that you always need at some point when working with Unit
 ### Generators
 - http://uvchecker.byvalle.com/ (UV debug texture generator)
 - https://cpetry.github.io/TextureGenerator-Online/ (small tex.gen, can make checkedboard also)
-- https://mebiusbox.github.io/contents/EffectTextureMaker/ (effect textures)
+- https://mebiusbox.github.io/contents/EffectTextureMaker/ (effect textures and animated effect sprite sheets)
+- https://www.cathalmcnally.com/news/free-caustics-generator/ (caustics)
