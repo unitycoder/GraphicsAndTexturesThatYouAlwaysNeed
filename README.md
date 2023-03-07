@@ -9,3 +9,4 @@ collection of textures that you always need at some point when working with Unit
 - https://cpetry.github.io/TextureGenerator-Online/ (small tex.gen, can make checkedboard also)
 - https://mebiusbox.github.io/contents/EffectTextureMaker/ (effect textures and animated effect sprite sheets)
 - https://www.cathalmcnally.com/news/free-caustics-generator/ (caustics)
+- https://tools.unitycoder.com/RandomNoiseTextureGenerator/ (grayscale random noise texture)
