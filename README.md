@@ -10,3 +10,4 @@ collection of textures that you always need at some point when working with Unit
 - https://mebiusbox.github.io/contents/EffectTextureMaker/ (effect textures and animated effect sprite sheets)
 - https://www.cathalmcnally.com/news/free-caustics-generator/ (caustics)
 - https://tools.unitycoder.com/RandomNoiseTextureGenerator/ (grayscale random noise texture)
+- https://acetix.itch.io/pseudo-volume-generator (pseudo 3D volume texture generator)
