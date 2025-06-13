@@ -13,6 +13,7 @@ collection of textures that you always need at some point when working with Unit
 - https://acetix.itch.io/pseudo-volume-generator (pseudo 3D volume texture generator)
 - Rounded rectangle PNG generator (with outline/bevel) https://tools.unitycoder.com/RoundedRectangleGeneratorPNG/
 - blue noise texture generator (page requires webgpu) https://acko.net/files/bluebox/#!/
+- white noise generator https://robson.plus/white-noise-image-generator/
 
 ### Skybox Generator
 - Space https://tools.wwwtyro.net/space-3d/index.html
