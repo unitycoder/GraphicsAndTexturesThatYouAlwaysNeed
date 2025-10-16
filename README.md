@@ -12,6 +12,7 @@ collection of free to use, royalty free textures that you always need at some po
 - pseudo 3D volume texture generator : https://acetix.itch.io/pseudo-volume-generator
 - Rounded rectangle PNG generator (with outline/bevel) : https://tools.unitycoder.com/RoundedRectangleGeneratorPNG/
 - RGB/Hex Color Array to Gradient PNG : https://tools.unitycoder.com/Array2GradientPNG/
+- (pattern textures) https://www.transparenttextures.com/
 
 ### Noise Generators
 - noise generator : https://noisegen.bubblebirdstudio.com/
