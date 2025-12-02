@@ -13,6 +13,7 @@ collection of free to use, royalty free textures that you always need at some po
 - Rounded rectangle PNG generator (with outline/bevel) : https://tools.unitycoder.com/RoundedRectangleGeneratorPNG/
 - RGB/Hex Color Array to Gradient PNG : https://tools.unitycoder.com/Array2GradientPNG/
 - (pattern textures) https://www.transparenttextures.com/
+- UI Shadow Generator https://github.com/unitycoder/UIEffectsBaker
 
 ### Noise Generators
 - noise generator : https://noisegen.bubblebirdstudio.com/
