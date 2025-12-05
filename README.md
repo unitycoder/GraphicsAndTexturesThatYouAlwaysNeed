@@ -12,6 +12,9 @@ collection of free to use, royalty free textures that you always need at some po
 - pattern textures : https://www.transparenttextures.com/
 - UI Shadow Generator : https://github.com/unitycoder/UIEffectsBaker
 - Line Generator : https://tools.unitycoder.com/LineGenerator/
+- Beveled Line Generator : https://tools.unitycoder.com/BeveledLineGenerator/
+- Brushed Metal Texture Generator : https://tools.unitycoder.com/BrushedMetalTextureGenerator/
+
 
 ### Noise Generators
 - noise generator : https://noisegen.bubblebirdstudio.com/
