@@ -16,6 +16,7 @@ collection of free to use, royalty free textures that you always need at some po
 - Brushed Metal Texture Generator : https://tools.unitycoder.com/BrushedMetalTextureGenerator/
 - Glitter sparkles texture generator : https://tools.unitycoder.com/GlitterTextureGenerator/
 - Star Icon/Symbol Image Generator : https://tools.unitycoder.com/StarIconGenerator/
+- Leaf shape generator : https://tools.unitycoder.com/LeafSpriteGenerator/
 
 
 ### Noise Generators
