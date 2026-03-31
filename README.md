@@ -17,6 +17,7 @@ collection of free to use, royalty free textures that you always need at some po
 - Glitter sparkles texture generator : https://tools.unitycoder.com/GlitterTextureGenerator/
 - Star Icon/Symbol Image Generator : https://tools.unitycoder.com/StarIconGenerator/
 - Leaf shape generator : https://tools.unitycoder.com/LeafSpriteGenerator/
+- Shape Image Generator : https://tools.unitycoder.com/ShapeImageGenerator/
 
 
 ### Noise Generators
