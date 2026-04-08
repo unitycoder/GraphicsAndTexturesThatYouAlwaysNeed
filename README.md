@@ -19,7 +19,6 @@ collection of free to use, royalty free textures that you always need at some po
 - Leaf shape generator : https://tools.unitycoder.com/LeafSpriteGenerator/
 - Shape Image Generator : https://tools.unitycoder.com/ShapeImageGenerator/
 
-
 ### Noise Generators
 - noise generator : https://noisegen.bubblebirdstudio.com/
 - white noise generator : https://robson.plus/white-noise-image-generator/
@@ -31,3 +30,4 @@ collection of free to use, royalty free textures that you always need at some po
 
 ### Resources
 - https://github.com/Nolram12345/DevTextureLib (small library of various CC0 textures and surface imperfections)
+- light masks : https://kenney.nl/assets/light-masks
