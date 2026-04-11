@@ -28,6 +28,7 @@ collection of free to use, royalty free textures that you always need at some po
 ### Skybox Generator
 - Space https://tools.wwwtyro.net/space-3d/index.html
 
-### Resources
+### Assets/Resources
 - https://github.com/Nolram12345/DevTextureLib (small library of various CC0 textures and surface imperfections)
 - light masks : https://kenney.nl/assets/light-masks
+- UI assets https://free-ui-assets.yurinchi2525.com/
