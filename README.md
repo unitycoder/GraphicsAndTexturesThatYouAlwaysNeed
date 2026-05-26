@@ -18,6 +18,7 @@ collection of free to use, royalty free textures that you always need at some po
 - Star Icon/Symbol Image Generator : https://tools.unitycoder.com/StarIconGenerator/
 - Leaf shape generator : https://tools.unitycoder.com/LeafSpriteGenerator/
 - Shape Image Generator : https://tools.unitycoder.com/ShapeImageGenerator/
+- Dials/Gauges/Scales/Meters : https://artofpilgrim.github.io/Dials/
 
 ### Noise Generators
 - noise generator : https://noisegen.bubblebirdstudio.com/
