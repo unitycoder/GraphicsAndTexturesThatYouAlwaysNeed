@@ -21,6 +21,9 @@ collection of free to use, royalty free textures that you always need at some po
 - Dials/Gauges/Scales/Meters : https://artofpilgrim.github.io/Dials/
 - Warning labels : https://artofpilgrim.github.io/labels/
 
+### Tools
+- Sprite Normal Map Generator https://www.spritefusion.com/sprite-normals
+
 ### Noise Generators
 - noise generator : https://noisegen.bubblebirdstudio.com/
 - white noise generator : https://robson.plus/white-noise-image-generator/
