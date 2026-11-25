@@ -35,6 +35,9 @@ collection of free to use, royalty free textures that you always need at some po
 - Space skybox https://tools.unitycoder.com/SpaceSkyboxGenerator/
 - Space https://tools.wwwtyro.net/space-3d/index.html
 
+### Converters
+- .ico maker https://tools.unitycoder.com/icoIconMaker/
+
 ### Assets/Resources
 - https://github.com/Nolram12345/DevTextureLib (small library of various CC0 textures and surface imperfections)
 - light masks : https://kenney.nl/assets/light-masks
