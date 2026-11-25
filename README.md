@@ -20,6 +20,7 @@ collection of free to use, royalty free textures that you always need at some po
 - Shape Image Generator : https://tools.unitycoder.com/ShapeImageGenerator/
 - Dials/Gauges/Scales/Meters : https://artofpilgrim.github.io/Dials/
 - Warning labels : https://artofpilgrim.github.io/labels/
+- Color texture atlas generator: https://tools.unitycoder.com/ColorAtlasTextureBuilder/
 
 ### Tools
 - Sprite Normal Map Generator https://www.spritefusion.com/sprite-normals
